@@ -1,0 +1,6 @@
+/Users/eulerfx/Documents/github/rand/bin/Debug/netstandard2.0/rand.deps.json
+/Users/eulerfx/Documents/github/rand/bin/Debug/netstandard2.0/rand.dll
+/Users/eulerfx/Documents/github/rand/bin/Debug/netstandard2.0/rand.pdb
+/Users/eulerfx/Documents/github/rand/obj/Debug/netstandard2.0/rand.fsproj.CoreCompileInputs.cache
+/Users/eulerfx/Documents/github/rand/obj/Debug/netstandard2.0/rand.dll
+/Users/eulerfx/Documents/github/rand/obj/Debug/netstandard2.0/rand.pdb
